@@ -1,0 +1,23 @@
+# 美国银行等应用走US线路
+DOMAIN-SUFFIX,sprig.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,supes.top
+DOMAIN-SUFFIX,redfin.com
+DOMAIN-SUFFIX,cdn-redfin.com
+DOMAIN-SUFFIX,docusign.com
+DOMAIN-SUFFIX,firstrade.com
+DOMAIN-SUFFIX,appewa.com
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,COINBASE.com
+DOMAIN-SUFFIX,adjust.net
+DOMAIN-SUFFIX,republicservices.com
+DOMAIN-SUFFIX,billerweb.com
+DOMAIN-SUFFIX,bellevuewa.gov
+DOMAIN-SUFFIX,pse.com
+DOMAIN-SUFFIX,adviceworks.net
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,yahoo.COM
+DOMAIN-SUFFIX,secureaccountview.com
+DOMAIN-SUFFIX,invoicecloud.com
+IP-CIDR,104.17.224.190/8
+DOMAIN-SUFFIX,wa.gov
